@@ -1,0 +1,21 @@
+.container {
+	padding: 5% !important;
+	width: 100vw !important;
+}
+
+h4 {
+	font-size: 19px;
+}
+
+i {
+	color: #1BBFF1;
+}
+
+.article-title {
+	padding: 2rem 0;
+	font-size: 1.3rem;
+}
+
+.see-more {
+	color: #2f6271 !important;
+}
