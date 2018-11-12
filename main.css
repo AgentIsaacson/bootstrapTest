@@ -8,7 +8,7 @@ header {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding-top: 8px;
+  padding-top: 15px;
 }
 
 li {
@@ -80,8 +80,8 @@ h4 {
 }
 
 .articles-wrapper {
-	display: flex;
-	justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .see-more {
